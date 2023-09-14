@@ -6,4 +6,4 @@ resources:
 - dev-ingress.yaml
 images:
 - name: christianh814/demo-gobg
-  newTag: 8daec0
+  newTag: 370c78
