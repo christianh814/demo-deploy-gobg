@@ -1,3 +1,3 @@
 # Deployment Repo for GOBG
 
-Source code is elsewhere.
+Source code: https://github.com/christianh814/demo-gobg
